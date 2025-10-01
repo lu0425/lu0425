@@ -9,9 +9,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lu0425&layout=compact&theme=default)
 
----
 
-*Replace `YOUR_USERNAME` with your actual GitHub username*
 
 <!--
 **lu0425/lu0425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
