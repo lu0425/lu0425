@@ -13,7 +13,7 @@
 ### Floating-Point Arithmetic
 - **[IEEE754_Floating_Point_Number_Multiplier](https://github.com/lu0425/IEEE754_Floating_Point_Number_Multiplier)** - IEEE 754 standard floating-point multiplier design
 
-- ### Digital Signal Processing
+### Digital Signal Processing
 - **[FIR_Filter_Design](https://github.com/lu0425/FIR_Filter_Design)** - 21-tap FIR filter with MATLAB coefficient optimization and Verilog RTL implementation
 
 ### Computational Geometry
