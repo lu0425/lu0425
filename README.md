@@ -8,11 +8,21 @@
 
 ## 📂 Projects
 
-- **[FIR_Filter_Design](https://github.com/lu0425/FIR_Filter_Design)** - 21-tap FIR filter implementation
-- **[Transformer_Attention_Mechanism](https://github.com/lu0425/Transformer_Attention_Mechanism)** - Hardware attention mechanism
-- **[IEEE754_Floating_Point_Number_Multiplier](https://github.com/lu0425/IEEE754_Floating_Point_Number_Multiplier)** - IEEE 754 multiplier
-- **[Coordinate_Calculator](https://github.com/lu0425/Coordinate_Calculator)** - Coordinate transformation
-- **[Heptagons_Area_Sorting_System](https://github.com/lu0425/Heptagons_Area_Sorting_System)** - Area calculation & sorting
+### Digital Signal Processing
+- **[FIR_Filter_Design](https://github.com/lu0425/FIR_Filter_Design)** - 21-tap FIR filter with MATLAB coefficient optimization and Verilog RTL implementation
+
+
+### Machine Learning Hardware
+- **[Transformer_Attention_Mechanism](https://github.com/lu0425/Transformer_Attention_Mechanism)** - Hardware implementation of Transformer attention mechanism in Verilog
+
+
+### Floating-Point Arithmetic
+- **[IEEE754_Floating_Point_Number_Multiplier](https://github.com/lu0425/IEEE754_Floating_Point_Number_Multiplier)** - IEEE 754 standard floating-point multiplier design
+
+
+### Computational Geometry
+- **[Coordinate_Calculator](https://github.com/lu0425/Coordinate_Calculator)** - Digital circuit for coordinate transformation and calculation
+- **[Heptagons_Area_Sorting_System](https://github.com/lu0425/Heptagons_Area_Sorting_System)** - Area calculation and sorting system for heptagon shapes
 
 ---
 
