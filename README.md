@@ -34,6 +34,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lu0425&layout=compact&theme=default)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lu0425&show_icons=true&theme=default)
-
 </div>
