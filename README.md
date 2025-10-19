@@ -30,8 +30,5 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lu0425&layout=compact&theme=default)
 
-</div>
