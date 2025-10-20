@@ -9,8 +9,18 @@
 ## 📂 Projects
 
 ### Digital Signal Processing
+
 - **[FIR_Filter_Design](https://github.com/lu0425/FIR_Filter_Design)**  
   21-tap FIR filter with MATLAB coefficient optimization and Verilog RTL implementation
+
+- **[DCT_Design](https://github.com/lu0425/DCT_Design)**  
+  Discrete Cosine Transform hardware implementations for signal and image processing
+  
+  - **[1D_DCT_Design](https://github.com/lu0425/DCT_Design/tree/main/1D_DCT_Design)**  
+    8-point 1D DCT with optimized architecture exploiting coefficient symmetry
+  
+  - **[2D_DCT_Design](https://github.com/lu0425/DCT_Design/tree/main/2D_DCT_Design)**  
+    8×8 2D DCT using row-column decomposition and distributed architecture
 
 ### Machine Learning Hardware
 - **[Transformer_Attention_Mechanism](https://github.com/lu0425/Transformer_Attention_Mechanism)**  
