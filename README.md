@@ -26,6 +26,9 @@
 - **[Transformer_Attention_Mechanism](https://github.com/lu0425/Transformer_Attention_Mechanism)**  
   Hardware implementation of Transformer attention mechanism in Verilog
 
+- **[Deep_Neural_Network_Accelerator_with_Power_Gating](https://github.com/lu0425/Deep_Neural_Network_Accelerator_with_Power_Gating)**  
+  DNN accelerator with power gating for leakage power reduction, featuring SRAM macro integration and header-based power management
+
 ### Floating-Point Arithmetic
 - **[IEEE754_Floating_Point_Number_Multiplier](https://github.com/lu0425/IEEE754_Floating_Point_Number_Multiplier)**  
   IEEE 754 standard floating-point multiplier design
