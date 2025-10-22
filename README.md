@@ -6,7 +6,7 @@
 
 ---
 
-## 📂 Projects
+## 📂 Projects (Verilog implementation)
 
 ### Digital Signal Processing
 
@@ -43,13 +43,27 @@
 
 ## 🛠️ Technical Skills
 
-| Category | Tools & Languages |
-|----------|-------------------|
-| **HDL** | Verilog |
-| **Programming** | Python, C, MATLAB |
-| **Simulation** | VCS |
-| **Analog Design** | Laker, HSPICE |
-| **Digital Backend** | Innovus, PrimeTime |
+### Design Skills
+
+| Skill | Description |
+|-------|-------------|
+| **HDL Coding** | Verilog, SystemVerilog |
+| **Logic Synthesis** | RTL optimization, constraint definition |
+| **APR** | Floorplan, placement, routing, CTS |
+| **STA** | Timing analysis and closure |
+| **Gate-Level Simulation** | Post-synthesis/layout verification |
+| **Programming** | MATLAB, Python, C |
+
+### EDA Tools
+
+| Category | Tools |
+|----------|-------|
+| **RTL Simulation** | VCS, NCVerilog, Xcelium |
+| **Synthesis** | Design Compiler, Genus |
+| **Place & Route** | Innovus |
+| **Timing Analysis** | PrimeTime |
+| **Extraction** | StarRC |
+| **Analog Design** | HSPICE, Laker, Virtuoso |
 
 ---
 
