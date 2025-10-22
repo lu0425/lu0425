@@ -60,7 +60,7 @@
 | **Place & Route** | Innovus |
 | **Timing Analysis** | PrimeTime |
 | **Extraction** | StarRC |
-| **Analog Design** | HSPICE, Laker, Virtuoso |
+| **Analog Design** | HSPICE, UltraSim, Laker, Virtuoso |
 
 ---
 
