@@ -44,15 +44,12 @@
 ## 🛠️ Technical Skills
 
 ### Design Skills
-
-| Skill | Description |
-|-------|-------------|
-| **HDL Coding** | Verilog, SystemVerilog |
-| **Logic Synthesis** | RTL optimization, constraint definition |
-| **APR** | Floorplan, placement, routing, CTS |
-| **STA** | Timing analysis and closure |
-| **Gate-Level Simulation** | Post-synthesis/layout verification |
-| **Programming** | MATLAB, Python, C |
+- HDL Coding (Verilog, SystemVerilog)
+- Logic Synthesis
+- APR (Automatic Place & Route)
+- STA (Static Timing Analysis)
+- Gate-Level Simulation
+- Programming (MATLAB, Python, C)
 
 ### EDA Tools
 
