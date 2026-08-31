@@ -49,18 +49,19 @@
 - APR (Automatic Place & Route)
 - STA (Static Timing Analysis)
 - Gate-Level Simulation
+- Mixed-Signal Simulation
 - Programming (MATLAB, Python, C)
 
 ### EDA Tools
 
 | Category | Tools |
 |----------|-------|
-| **RTL Simulation** | VCS, NCVerilog, Xcelium |
+| **RTL Simulation** | VCS, NCVerilog, Xcelium, VCS+XA (Mixed-Signal) |
 | **Synthesis** | Design Compiler, Genus |
 | **Place & Route** | Innovus |
 | **Timing Analysis** | PrimeTime |
 | **Extraction** | StarRC |
-| **Analog Design** | HSPICE, UltraSim, Laker, Virtuoso |
+| **Analog Design** | HSPICE, UltraSim, Laker, Virtuoso, ADE L |
 
 
 
