@@ -62,9 +62,5 @@
 | **Extraction** | StarRC |
 | **Analog Design** | HSPICE, UltraSim, Laker, Virtuoso |
 
----
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lu0425&layout=compact&theme=default&cache_seconds=1800)
 
